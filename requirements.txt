@@ -5,3 +5,4 @@ langchain_community
 tiktoken
 PyPDF2
 sentence-transformers
+streamlit
