@@ -20,7 +20,7 @@ ASTRA_DB_ID = "" # enter your Database ID
 
 
 # provide the path of  pdf file/files.
-pdfreader = PdfReader('Satyam_Swarup_Resume.pdf')
+pdfreader = PdfReader('lalkitab.pdf')
 
 from typing_extensions import Concatenate
 
